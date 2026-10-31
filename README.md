@@ -17,7 +17,7 @@ Why do two Asian economies with the same goal, price stability, use opposite ins
 |---|---|
 | `RBI_vs_MAS_Policy_Brief_Final.pdf` | The full brief |
 | `RBI_MAS_Inflation_Decomposition(2).xlsx` | Workbook with live formulas for the variance decomposition (sheets: Assumptions, Data, Decomposition) |
-| `India_Singapore_Inflation_Raw_Data_2020_2026.xlsx` | Raw data as collected |
+| `India Singapore Inflation Raw Data 2020 2026.xlsx` | Raw data as collected |
 | `chart_india_cpi_repo.png`, `chart_singapore_cpi_sneer.png` | Figures used in the brief |
 
 ## Data sources
